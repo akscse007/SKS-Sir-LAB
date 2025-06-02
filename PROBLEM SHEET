@@ -1,0 +1,21 @@
+1.Get the number of characters, words, spaces, all special characters, and lines in a text file.
+
+2. Find out all words from a given text file and sort them in lexicographic order.
+
+3. Take a set of (x, y) coordinates in clockwise order. Find the convex hull of the given set of points.
+
+4. Find the most occurring character and its count in a given text.
+
+5. Find the longest subsequence common to two strings.
+
+6. Implement a circular linked list in which data can be added, deleted, and modified.
+
+7. Roman to Integer and Vice versa (10 digit integer)
+
+8. Take a sufficiently long arithmetic expression with +, -, *, /, ^ operators, including parenthesis. Evaluate the expression. (At least 256 characters)
+
+9. Compute the resultant multiplication matrix for two large square matrices (not to fit individually in primary memory). (At least 1 GB per matrix)
+
+10. Find the factorial of any integer. The numbers could be at most ten digits long. (10 digits)
+
+11. Integer number to word conversion. (10 digits)
